@@ -9,3 +9,5 @@
 
 
 [![Build_CI - Linux](https://github.com/GuptaJuluri22/M3_wiper-system-for-car/actions/workflows/linux.yml/badge.svg)](https://github.com/GuptaJuluri22/M3_wiper-system-for-car/actions/workflows/linux.yml)
+
+[![Bulid CI - windows](https://github.com/GuptaJuluri22/M3_wiper-system-for-car/actions/workflows/windows.yml/badge.svg)](https://github.com/GuptaJuluri22/M3_wiper-system-for-car/actions/workflows/windows.yml)
